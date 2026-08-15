@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Guru & Sekolah KBC",
+  "description": "Sistem Administrasi Guru & Manajemen Sekolah Terpadu Kurikulum Merdeka dan Kurikulum Berbasis Cinta (KBC) dengan Generator AI Dokumen Administrasi Lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
